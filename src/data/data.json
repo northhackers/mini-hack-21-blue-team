@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "salary": "£16248.98",
+            "computer_simulation_used": 75,
+            "private_medical_care": "poor",
+            "hay": "poor",
+            "stables": "poor",
+            "stable_hands": 1
+        },
+        {
+            "id": 2,
+            "salary": "£19863.81",
+            "computer_simulation_used": 50,
+            "private_medical_care": "fair",
+            "hay": "none",
+            "stables": "excellent",
+            "stable_hands": 1
+        },
+        {
+            "id": 3,
+            "salary": "£27169.81",
+            "computer_simulation_used": 75,
+            "private_medical_care": "excellent",
+            "hay": "fair",
+            "stables": "none",
+            "stable_hands": 3
+        },
+        {
+            "id": 4,
+            "salary": "£18083.16",
+            "computer_simulation_used": 25,
+            "private_medical_care": "poor",
+            "hay": "good",
+            "stables": "none",
+            "stable_hands": 5
+        },
+        {
+            "id": 5,
+            "salary": "£15997.88",
+            "computer_simulation_used": 75,
+            "private_medical_care": "none",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 6,
+            "salary": "£28638.81",
+            "computer_simulation_used": 0,
+            "private_medical_care": "excellent",
+            "hay": "good",
+            "stables": "fair",
+            "stable_hands": 0
+        },
+        {
+            "id": 7,
+            "salary": "£24714.28",
+            "computer_simulation_used": 100,
+            "private_medical_care": "private",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 8,
+            "salary": "£27128.39",
+            "computer_simulation_used": 25,
+            "private_medical_care": "good",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 9,
+            "salary": "£15188.15",
+            "computer_simulation_used": 25,
+            "private_medical_care": "excellent",
+            "hay": "poor",
+            "stables": "good",
+            "stable_hands": 3
+        },
+        {
+            "id": 10,
+            "salary": "£19842.44",
+            "computer_simulation_used": 75,
+            "private_medical_care": "good",
+            "hay": "none",
+            "stables": "none",
+            "stable_hands": 0
+        },
+        {
+            "id": 11,
+            "salary": "£18627.64",
+            "computer_simulation_used": 75,
+            "private_medical_care": "excellent",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 12,
+            "salary": "£29070.59",
+            "computer_simulation_used": 50,
+            "private_medical_care": "excellent",
+            "hay": "fair",
+            "stables": "good",
+            "stable_hands": 5
+        },
+        {
+            "id": 13,
+            "salary": "£28813.66",
+            "computer_simulation_used": 75,
+            "private_medical_care": "poor",
+            "hay": "fair",
+            "stables": "poor",
+            "stable_hands": 3
+        },
+        {
+            "id": 14,
+            "salary": "£18456.53",
+            "computer_simulation_used": 0,
+            "private_medical_care": "fair",
+            "hay": "none",
+            "stables": "fair",
+            "stable_hands": 3
+        },
+        {
+            "id": 15,
+            "salary": "£20447.07",
+            "computer_simulation_used": 50,
+            "private_medical_care": "excellent",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 16,
+            "salary": "£17637.33",
+            "computer_simulation_used": 75,
+            "private_medical_care": "private",
+            "hay": "fair",
+            "stables": "excellent",
+            "stable_hands": 0
+        },
+        {
+            "id": 17,
+            "salary": "£15012.43",
+            "computer_simulation_used": 25,
+            "private_medical_care": "private",
+            "hay": "fair",
+            "stables": "excellent",
+            "stable_hands": 3
+        },
+        {
+            "id": 18,
+            "salary": "£24160.74",
+            "computer_simulation_used": 0,
+            "private_medical_care": "good",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 19,
+            "salary": "£24884.36",
+            "computer_simulation_used": 50,
+            "private_medical_care": "private",
+            "hay": "fair",
+            "stables": "good",
+            "stable_hands": 1
+        },
+        {
+            "id": 20,
+            "salary": "£15912.69",
+            "computer_simulation_used": 75,
+            "private_medical_care": "good",
+            "hay": "excellent",
+            "stables": "poor",
+            "stable_hands": 0
+        },
+        {
+            "id": 21,
+            "salary": "£18520.21",
+            "computer_simulation_used": 100,
+            "private_medical_care": "excellent",
+            "hay": "good",
+            "stables": "excellent",
+            "stable_hands": 1
+        },
+        {
+            "id": 22,
+            "salary": "£16616.89",
+            "computer_simulation_used": 25,
+            "private_medical_care": "excellent",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 23,
+            "salary": "£27477.04",
+            "computer_simulation_used": 100,
+            "private_medical_care": "good",
+            "hay": "fair",
+            "stables": "none",
+            "stable_hands": 5
+        },
+        {
+            "id": 24,
+            "salary": "£29404.61",
+            "computer_simulation_used": 0,
+            "private_medical_care": "none",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 25,
+            "salary": "£25844.78",
+            "computer_simulation_used": 50,
+            "private_medical_care": "excellent",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 26,
+            "salary": "£15945.95",
+            "computer_simulation_used": 25,
+            "private_medical_care": "poor",
+            "hay": "none",
+            "stables": "fair",
+            "stable_hands": 0
+        },
+        {
+            "id": 27,
+            "salary": "£16487.94",
+            "computer_simulation_used": 100,
+            "private_medical_care": "excellent",
+            "hay": "excellent",
+            "stables": "fair",
+            "stable_hands": 3
+        },
+        {
+            "id": 28,
+            "salary": "£24777.75",
+            "computer_simulation_used": 50,
+            "private_medical_care": "good",
+            "hay": "poor",
+            "stables": "fair",
+            "stable_hands": 1
+        },
+        {
+            "id": 29,
+            "salary": "£29365.35",
+            "computer_simulation_used": 0,
+            "private_medical_care": "fair",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 30,
+            "salary": "£23084.72",
+            "computer_simulation_used": 50,
+            "private_medical_care": "good",
+            "hay": "good",
+            "stables": "fair",
+            "stable_hands": 0
+        },
+        {
+            "id": 31,
+            "salary": "£16647.29",
+            "computer_simulation_used": 25,
+            "private_medical_care": "poor",
+            "hay": "fair",
+            "stables": "good",
+            "stable_hands": 2
+        },
+        {
+            "id": 32,
+            "salary": "£18694.38",
+            "computer_simulation_used": 25,
+            "private_medical_care": "private",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 33,
+            "salary": "£18023.58",
+            "computer_simulation_used": 100,
+            "private_medical_care": "private",
+            "hay": "excellent",
+            "stables": "good",
+            "stable_hands": 2
+        },
+        {
+            "id": 34,
+            "salary": "£23279.07",
+            "computer_simulation_used": 75,
+            "private_medical_care": "private",
+            "hay": "fair",
+            "stables": "excellent",
+            "stable_hands": 1
+        },
+        {
+            "id": 35,
+            "salary": "£15284.80",
+            "computer_simulation_used": 25,
+            "private_medical_care": "excellent",
+            "hay": "poor",
+            "stables": "fair",
+            "stable_hands": 2
+        },
+        {
+            "id": 36,
+            "salary": "£29341.88",
+            "computer_simulation_used": 0,
+            "private_medical_care": "excellent",
+            "hay": "none",
+            "stables": "good",
+            "stable_hands": 3
+        },
+        {
+            "id": 37,
+            "salary": "£18231.71",
+            "computer_simulation_used": 75,
+            "private_medical_care": "poor",
+            "hay": "poor",
+            "stables": "good",
+            "stable_hands": 3
+        },
+        {
+            "id": 38,
+            "salary": "£28941.58",
+            "computer_simulation_used": 75,
+            "private_medical_care": "fair",
+            "hay": "good",
+            "stables": "excellent",
+            "stable_hands": 1
+        },
+        {
+            "id": 39,
+            "salary": "£24162.77",
+            "computer_simulation_used": 25,
+            "private_medical_care": "fair",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 40,
+            "salary": "£20331.37",
+            "computer_simulation_used": 0,
+            "private_medical_care": "good",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 41,
+            "salary": "£27489.62",
+            "computer_simulation_used": 0,
+            "private_medical_care": "private",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 42,
+            "salary": "£21329.62",
+            "computer_simulation_used": 75,
+            "private_medical_care": "good",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 43,
+            "salary": "£26009.60",
+            "computer_simulation_used": 0,
+            "private_medical_care": "fair",
+            "hay": "good",
+            "stables": "poor",
+            "stable_hands": 3
+        },
+        {
+            "id": 44,
+            "salary": "£23138.79",
+            "computer_simulation_used": 25,
+            "private_medical_care": "none",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 45,
+            "salary": "£21648.95",
+            "computer_simulation_used": 25,
+            "private_medical_care": "none",
+            "hay": "fair",
+            "stables": "fair",
+            "stable_hands": 5
+        },
+        {
+            "id": 46,
+            "salary": "£20206.38",
+            "computer_simulation_used": 75,
+            "private_medical_care": "poor",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 47,
+            "salary": "£24160.18",
+            "computer_simulation_used": 100,
+            "private_medical_care": "good",
+            "hay": "excellent",
+            "stables": "fair",
+            "stable_hands": 5
+        },
+        {
+            "id": 48,
+            "salary": "£21503.88",
+            "computer_simulation_used": 50,
+            "private_medical_care": "fair",
+            "hay": "fair",
+            "stables": "poor",
+            "stable_hands": 5
+        },
+        {
+            "id": 49,
+            "salary": "£26521.39",
+            "computer_simulation_used": 100,
+            "private_medical_care": "fair",
+            "hay": "poor",
+            "stables": "good",
+            "stable_hands": 1
+        },
+        {
+            "id": 50,
+            "salary": "£18753.51",
+            "computer_simulation_used": 0,
+            "private_medical_care": "none",
+            "hay": "good",
+            "stables": "fair",
+            "stable_hands": 3
+        },
+        {
+            "id": 51,
+            "salary": "£29093.09",
+            "computer_simulation_used": 75,
+            "private_medical_care": "fair",
+            "hay": "none",
+            "stables": "good",
+            "stable_hands": 2
+        },
+        {
+            "id": 52,
+            "salary": "£26172.50",
+            "computer_simulation_used": 0,
+            "private_medical_care": "good",
+            "hay": "poor",
+            "stables": "fair",
+            "stable_hands": 1
+        },
+        {
+            "id": 53,
+            "salary": "£28446.62",
+            "computer_simulation_used": 50,
+            "private_medical_care": "excellent",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 54,
+            "salary": "£15342.16",
+            "computer_simulation_used": 25,
+            "private_medical_care": "private",
+            "hay": "none",
+            "stables": "good",
+            "stable_hands": 5
+        },
+        {
+            "id": 55,
+            "salary": "£25705.56",
+            "computer_simulation_used": 25,
+            "private_medical_care": "poor",
+            "hay": "poor",
+            "stables": "poor",
+            "stable_hands": 0
+        },
+        {
+            "id": 56,
+            "salary": "£15765.28",
+            "computer_simulation_used": 25,
+            "private_medical_care": "excellent",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 57,
+            "salary": "£21628.05",
+            "computer_simulation_used": 50,
+            "private_medical_care": "good",
+            "hay": "good",
+            "stables": "poor",
+            "stable_hands": 5
+        },
+        {
+            "id": 58,
+            "salary": "£26539.53",
+            "computer_simulation_used": 0,
+            "private_medical_care": "poor",
+            "hay": "fair",
+            "stables": "excellent",
+            "stable_hands": 1
+        },
+        {
+            "id": 59,
+            "salary": "£22581.25",
+            "computer_simulation_used": 75,
+            "private_medical_care": "none",
+            "hay": null,
+            "stables": null,
+            "stable_hands": null
+        },
+        {
+            "id": 60,
+            "salary": "£23337.84",
+            "computer_simulation_used": 25,
+            "private_medical_care": "excellent",
+            "hay": "fair",
+            "stables": "excellent",
+            "stable_hands": 0
+        }
+    ]
+}
